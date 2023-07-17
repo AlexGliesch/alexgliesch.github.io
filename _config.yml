@@ -8,7 +8,7 @@ middle_name: Z.
 last_name: Gliesch
 email: 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Alex's personal website.
+  Alex Gliesch's personal website.
 footer_text: 
 keywords: 
 
@@ -30,6 +30,7 @@ highlight_theme_dark: native    # https://github.com/jwarby/jekyll-pygments-them
 
 # repo color theme
 repo_theme_light: default       # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+# repo_theme_light: dark       # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_theme_dark: dark           # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
   enabled: true
@@ -154,9 +155,9 @@ disqus_shortname: al-folio # put your disqus shortname
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+# external_sources:
+  # - name: medium.com
+    # rss_url: https://medium.com/@al-folio/feed
 
 # -----------------------------------------------------------------------------
 # Collections
