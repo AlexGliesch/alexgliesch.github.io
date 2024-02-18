@@ -7,7 +7,7 @@ nav: false
 description:
 ---
 
-This is a list of course projects from my undergraduate and graduate days. I hope to slowly expand this list with code, links and descriptions. I only included the projects that I think are interesting.
+This is a list of course projects from my undergraduate and graduate days. I hope to slowly expand this list with code, links and descriptions.
 
 - (2011) Tetris (terminal and with Allegro)
 - (2012) FCG
@@ -20,7 +20,7 @@ This is a list of course projects from my undergraduate and graduate days. I hop
 - (2014) ProjectionExplain (internship work). Not credited in the paper.
 - (2014) Raytracer 
 - (2015) Wii
-- (2015) Compiladores
+- (2015) Compilers
 - (2017) Geometric Algorithms
 - (2018) CMP568 Combinatorial Optimization Topics (Luciana Buriol)
-- (2018) CMP268 Combinatorial Optimization Topics (Marcus Ritt) - [Irregular Cutting Stock](https://github.com/AlexGliesch/irregular-cutting-stock/).
+- (2018) CMP268 Combinatorial Optimization Topics (Marcus Ritt): [Irregular Cutting Stock](https://github.com/AlexGliesch/irregular-cutting-stock/).

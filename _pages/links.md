@@ -16,7 +16,7 @@ Links for random things that I find interesting.
 * [David Pisinger's optimization codes](http://hjemmesider.diku.dk/~pisinger/codes.html).
 * Derelict page for our [reading group on districting problems](/districting-reading-group/).
 * [Best-known values for chromatic numbers and clique numbers](/assets/bkvcolor.pdf), gathered from different sources.
-* [Declining Value of Papers in Academia ](https://www.youtube.com/watch?v=sQhAbwW9-7Q) by ChuScience. Summarizes well my thoughts about academia these days.
+* [Declining Value of Papers in Academia ](https://www.youtube.com/watch?v=sQhAbwW9-7Q) by ChuScience. Summarizes my thoughts about academia these days.
 <!-- * [Constraints mailing list](https://groups.google.com/g/constraints). -->
 <!-- * [Opt-Net mailing list](https://listserv.zib.de/mailman/listinfo/opt-net). -->
 
@@ -29,9 +29,9 @@ Links for random things that I find interesting.
 * [Algorithms for Competitive Programming](https://cp-algorithms.com/index.html).
 * [Bit Twiddling Hacks](http://graphics.stanford.edu/~seander/bithacks.html) by Sean Eron Anderson.
 * Videos by Eskil Steenberg:
-  * ["How I program C"](https://youtu.be/443UNeGrFoM?si=qx8gF1QYqk_dJA23). Inspiring.
+  * ["How I program C"](https://youtu.be/443UNeGrFoM?si=qx8gF1QYqk_dJA23).
   * ["Advanced C: The UB and optimizations that trick good programmers."](https://youtu.be/w3_e9vZj7D8?si=8mLTiIY4Dqj6f8-7)
-* [Red Blob Games](https://www.redblobgames.com/) by Amit Patel. Amazingly detailed algorithms for mapping / gaming. Good resource for hexagonal grids.
+* [Red Blob Games](https://www.redblobgames.com/) by Amit Patel. Good resource for hexagonal grids.
 * [What every programmer should know about memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf), by Ulrich Drepper.
  
 ### Random
