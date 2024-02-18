@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /districting-reading/
+permalink: /districting-reading-group/
 title: Reading Group on Districting
 description: 
 nav: false
