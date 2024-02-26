@@ -14,7 +14,7 @@ Links for random things that I find interesting.
 * [Tips for writing research papers](https://jcsmith.people.clemson.edu/tips/Tips_Home.html), by J. Cole Smith.
 * [OR Districting Resources](https://austinlbuchanan.github.io/OR-redistricting-resources/), compiled by Austin Buchanan.
 * [David Pisinger's optimization codes](http://hjemmesider.diku.dk/~pisinger/codes.html).
-* Derelict page for our [reading group on districting problems](/districting-reading-group/).
+* Derelict page for our [reading group on districting problems](/districting_reading_group/).
 * [Best-known values for chromatic numbers and clique numbers](/assets/bkvcolor.pdf), gathered from different sources.
 * [Declining Value of Papers in Academia ](https://www.youtube.com/watch?v=sQhAbwW9-7Q), by Youtuber ChuScience. Summarizes my thoughts about academia these days.
 <!-- * [Constraints mailing list](https://groups.google.com/g/constraints). -->

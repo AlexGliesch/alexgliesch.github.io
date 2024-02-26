@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /districting-reading-group/
-title: Reading Group on Districting
+permalink: /districting_reading_group/
+title: reading group on districting
 description: 
 nav: false
 ---

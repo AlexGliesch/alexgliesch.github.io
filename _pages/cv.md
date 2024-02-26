@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /cv/
-title: cv
+title: 
 nav: false
 # nav_order: 4
 description: 
 ---
 
-You can find my CV [here](/assets/cv.pdf). I have not updated this in a while.
+You can find my CV [here](/assets/cv.pdf).
